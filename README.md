@@ -10,4 +10,4 @@ Growthmindset | [Growth mindset](https://ehabalshrida.github.io/reading-note/Gro
 Mastering Markdown on Github | [Mastering Markdown on Github](https://ehabalshrida.github.io/reading-note/Mastering%20Markdown%20on%20Github)
 GitHub Markdown Syntax | [GitHub Markdown Syntax](https://ehabalshrida.github.io/reading-note/GitHub%20Markdown%20Syntax)
 Github Pages | [Github Pages](https://ehabalshrida.github.io/reading-note/Github%20Pages)
-Content in the first column | Content in the second column
+Read02 | [github introduction](https://ehabalshrida.github.io/reading-note/Read02)
