@@ -11,3 +11,5 @@ Mastering Markdown on Github | [Mastering Markdown on Github](https://ehabalshri
 GitHub Markdown Syntax | [GitHub Markdown Syntax](https://ehabalshrida.github.io/reading-note/GitHub%20Markdown%20Syntax)
 Github Pages | [Github Pages](https://ehabalshrida.github.io/reading-note/Github%20Pages)
 Read02 | [git introduction](https://ehabalshrida.github.io/reading-note/Read02)
+| read:03  | [read:03](https://ehabalshrida.github.io/reading-note/read:03)  |
+| Read:04 | [Read:04](https://ehabalshrida.github.io/reading-note/Read:04)  |
