@@ -1,5 +1,3 @@
-# reading-note  
-
 ## Hello all, 
 *I'am Ehab Alshrida Telecom And software Engineer, so excited to share this journey with you, from the first step in web development to be full Stack Developer in sha'a allah.*
 
@@ -14,3 +12,5 @@ Github Pages | [Github Pages](https://ehabalshrida.github.io/reading-note/Github
 Read02 | [git introduction](https://ehabalshrida.github.io/reading-note/Read02)
 read:03 | [read:03](https://ehabalshrida.github.io/reading-note/read:03) 
 Read:04 | [Read:04](https://ehabalshrida.github.io/reading-note/Read:04)
+read:05 | [read:05](https://ehabalshrida.github.io/reading-note/read:05)
+read:06 | [read:06](https://ehabalshrida.github.io/reading-note/read:06)
