@@ -1,7 +1,29 @@
 ## Hello all, 
 *I'am Ehab Alshrida Telecom And software Engineer, so excited to share this journey with you, from the first step in web development to be full Stack Developer in sha'a allah.*
 
+**this website contain a summary for the documents which i have studied during the course of "advanced software development in full stack java script"**
 
+### Code 201 Reading Notes 
+
+File Name |The Link
+------------ | -------------
+Read:01 | 
+Read:02 | 
+Read:03 | 
+Read:04 |
+Read:05 | 
+Read:06 |  
+Read:07 | 
+Read:08 | 
+Read:09 | 
+Read:10 | 
+Read:11 | 
+Read:12 | 
+Read:13 | 
+Read:14 | 
+Read:15 | 
+
+### Code 102 Reading Notes
 
 File Name |The Link
 ------------ | -------------
