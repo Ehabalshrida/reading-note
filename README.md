@@ -8,7 +8,7 @@
 File Name |The Link
 ------------ | -------------
 Read:01 | [class-01](https://ehabalshrida.github.io/reading-note/class-01)
-Read:02 | 
+Read:02 | [class-02](https://ehabalshrida.github.io/reading-note/class-02)
 Read:03 | 
 Read:04 |
 Read:05 | 
