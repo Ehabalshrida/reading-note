@@ -10,9 +10,9 @@ File Name |The Link
 Read:01 | [class-01](https://ehabalshrida.github.io/reading-note/class-01)
 Read:02 | [class-02](https://ehabalshrida.github.io/reading-note/class-02)
 Read:03 | [class-03](https://ehabalshrida.github.io/reading-note/class-03)
-Read:04 |[class-04](https://ehabalshrida.github.io/reading-note/class-04)
+Read:04 | [class-04](https://ehabalshrida.github.io/reading-note/class-04)
 Read:05 | [class-05](https://ehabalshrida.github.io/reading-note/class-05)
-Read:06 |  
+Read:06 | [class-06](https://ehabalshrida.github.io/reading-note/class-06)
 Read:07 | 
 Read:08 | 
 Read:09 | 
