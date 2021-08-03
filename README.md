@@ -15,7 +15,7 @@ Read:05 | [class-05](https://ehabalshrida.github.io/reading-note/class-05)
 Read:06 | [class-06](https://ehabalshrida.github.io/reading-note/class-06)
 Read:07 | [class-07](https://ehabalshrida.github.io/reading-note/class-07)
 Read:08 | [class-08](https://ehabalshrida.github.io/reading-note/class-08)
-Read:09 | 
+Read:09 | [class-09](https://ehabalshrida.github.io/reading-note/class-09)
 Read:10 | 
 Read:11 | 
 Read:12 | 
