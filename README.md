@@ -21,7 +21,7 @@ Read:11 | [class-11](https://ehabalshrida.github.io/reading-note/class-11)
 Read:12 | [class-12](https://ehabalshrida.github.io/reading-note/class-12)
 Read:13 | [class-13](https://ehabalshrida.github.io/reading-note/class-13)
 Read:14 | [class-14](https://ehabalshrida.github.io/reading-note/class-14)
-Read:15 |  [class-15](https://ehabalshrida.github.io/reading-note/class-15)
+Read:15 | [class-15](https://ehabalshrida.github.io/reading-note/class-15)
 
 ### Code 102 Reading Notes
 
