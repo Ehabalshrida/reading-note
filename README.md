@@ -4,22 +4,24 @@
 **this website contain a summary for the documents which i have studied during the course of "advanced software development in full stack java script"**
 
 ### Code 401 - Advanced Software Development
+
+
 File Name |The Link
 ------------ | -------------
 Read:01 | 
-Read:02 | 
+Read:02 |
 Read:03 | 
 Read:04 | 
-Read:05 | 
+Read:05 |
 Read:06 | 
 Read:07 | 
 Read:08 | 
-Read:09 |
+Read:09 | 
 Read:10 | 
 Read:11 | 
-Read:12 | 
-Read:13 |
-Read:14 | 
+Read:12 |
+Read:13 | 
+Read:14 |
 Read:15 | 
 
 
