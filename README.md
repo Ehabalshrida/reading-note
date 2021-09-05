@@ -31,7 +31,7 @@ Read:15 |
 File Name |The Link
 ------------ | -------------
 Read:01 |  [class-16](https://ehabalshrida.github.io/reading-note/class-16)
-Read:02 | 
+Read:02 | [class-17](https://ehabalshrida.github.io/reading-note/class-17)
 Read:03 | 
 Read:04 | 
 Read:05 | 
