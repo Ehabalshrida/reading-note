@@ -36,7 +36,7 @@ Read:02 | [class-18](https://ehabalshrida.github.io/reading-note/class-18)
 Read:03 | [class-19](https://ehabalshrida.github.io/reading-note/class-19)
 Read:04 | [class-20](https://ehabalshrida.github.io/reading-note/class-20)
 Read:05 | [class-21](https://ehabalshrida.github.io/reading-note/class-21)
-Read:06 | 
+Read:06 |  [class-22](https://ehabalshrida.github.io/reading-note/class-22)
 Read:07 | 
 Read:08 | 
 Read:09 |
