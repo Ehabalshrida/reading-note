@@ -43,7 +43,7 @@ Read:09 |[class-25](https://ehabalshrida.github.io/reading-note/class-25)
 Read:10 | [class-26](https://ehabalshrida.github.io/reading-note/class-26)
 Read:11 | [class-27](https://ehabalshrida.github.io/reading-note/class-27)
 Read:12 | [class-28](https://ehabalshrida.github.io/reading-note/class-28)
-Read:13 |
+Read:13 |[class-29](https://ehabalshrida.github.io/reading-note/class-29)
 Read:14 | 
 Read:15 | 
 
