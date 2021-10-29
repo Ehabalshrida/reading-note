@@ -8,7 +8,7 @@
 
 File Name |The Link
 ------------ | -------------
-Read:01 | 
+Read:01 | [class-31](https://ehabalshrida.github.io/reading-note/class-30)
 Read:02 |
 Read:03 | 
 Read:04 | 
@@ -45,7 +45,7 @@ Read:11 | [class-27](https://ehabalshrida.github.io/reading-note/class-27)
 Read:12 | [class-28](https://ehabalshrida.github.io/reading-note/class-28)
 Read:13 |[class-29](https://ehabalshrida.github.io/reading-note/class-29)
 Read:14 | [class-30](https://ehabalshrida.github.io/reading-note/class-30)
-Read:15 | 
+ 
 
 ### Code 201 - Foundations of Software Development
  
