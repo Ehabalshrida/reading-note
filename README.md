@@ -19,7 +19,7 @@ Read:08 | [class-38](https://ehabalshrida.github.io/reading-note/class-38)
 Read:09 | [class-39](https://ehabalshrida.github.io/reading-note/class-39)
 Read:10 | [class-40](https://ehabalshrida.github.io/reading-note/class-40)
 Read:11 | [class-41](https://ehabalshrida.github.io/reading-note/class-41)
-Read:12 |
+Read:12 | [class-42](https://ehabalshrida.github.io/reading-note/class-42)
 Read:13 | 
 Read:14 |
 Read:15 | 
