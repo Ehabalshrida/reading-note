@@ -22,7 +22,8 @@ Read:11 | [class-41](https://ehabalshrida.github.io/reading-note/class-41)
 Read:12 | [class-42](https://ehabalshrida.github.io/reading-note/class-42)
 Read:13 | [class-43](https://ehabalshrida.github.io/reading-note/class-43)
 Read:14 | [class-44](https://ehabalshrida.github.io/reading-note/class-44)
-Read:15 | 
+Read:15 | [class-45](https://ehabalshrida.github.io/reading-note/class-45)
+Read:16 | 
 
 
 ### Code 301 - Intermediate Software Development
