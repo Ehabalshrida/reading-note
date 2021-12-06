@@ -28,7 +28,8 @@ Read:17 | [class-47](https://ehabalshrida.github.io/reading-note/class-47)
 Read:18 | [class-48](https://ehabalshrida.github.io/reading-note/class-48)
 Read:19 | [class-49](https://ehabalshrida.github.io/reading-note/class-49)
 Read:20 | [class-50](https://ehabalshrida.github.io/reading-note/class-50)
-Read:20 | [class-51](https://ehabalshrida.github.io/reading-note/class-51)
+Read:21 | [class-51](https://ehabalshrida.github.io/reading-note/class-51)
+Read:22 | [class-52](https://ehabalshrida.github.io/reading-note/class-52)
 
 
 
