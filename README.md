@@ -30,7 +30,9 @@ Read:19 | [class-49](https://ehabalshrida.github.io/reading-note/class-49)
 Read:20 | [class-50](https://ehabalshrida.github.io/reading-note/class-50)
 Read:21 | [class-51](https://ehabalshrida.github.io/reading-note/class-51)
 Read:22 | [class-52](https://ehabalshrida.github.io/reading-note/class-52)
-Read:22 | [class-53](https://ehabalshrida.github.io/reading-note/class-53)
+Read:23 | [class-53](https://ehabalshrida.github.io/reading-note/class-53)
+Read:24 | [class-54](https://ehabalshrida.github.io/reading-note/class-54)
+
 
 
 
