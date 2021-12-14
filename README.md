@@ -35,6 +35,7 @@ Read:24 | [class-54](https://ehabalshrida.github.io/reading-note/class-54)
 Read:25 | [class-55](https://ehabalshrida.github.io/reading-note/class-55)
 Read:26 | [class-56](https://ehabalshrida.github.io/reading-note/class-56)
 Read:27 | [class-57](https://ehabalshrida.github.io/reading-note/class-57)
+Read:28 | [class-58](https://ehabalshrida.github.io/reading-note/class-58)
 
 
 
