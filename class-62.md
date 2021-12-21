@@ -18,8 +18,22 @@ If you are using Redux only to avoid passing props down to deeply nested compone
 
 ## Terms
 
-**immutable state:**(unchangeable state) state cannot be modified after it is created. React state should be treated as immutable.|
-|time travel in redux|Time travel is the ability to move back and forth among the previous states of an application and view the results in real time. With Redux, given a specific state and a specific action, the next state of the application is always exactly the same.|
-**action creator:** An action creator is merely a function that returns an action object. Redux includes a utility function called bindActionCreators for binding one or more action creators to the store's dispatch() function.|
-**reducer:**  A reducer is a function that determines changes to an application's state.|
-|dispatch| dispatch() is the method used to dispatch actions and trigger state changes to the store. react-redux is simply trying to give you convenient access to it.|
+**immutable state:**
+
+(unchangeable state) state cannot be modified after it is created. React state should be treated as immutable.
+
+**time travel in redux** 
+
+Time travel is the ability to move back and forth among the previous states of an application and view the results in real time. With Redux, given a specific state and a specific action, the next state of the application is always exactly the same.
+
+**action creator:**
+
+ An action creator is merely a function that returns an action object. Redux includes a utility function called bindActionCreators for binding one or more action creators to the store's dispatch() function.
+
+**reducer:**  
+
+A reducer is a function that determines changes to an application's state.
+
+**dispatch:**
+
+ dispatch() is the method used to dispatch actions and trigger state changes to the store. react-redux is simply trying to give you convenient access to it.
