@@ -44,6 +44,8 @@ Read:31 | [class-63](https://ehabalshrida.github.io/reading-note/class-63)
 Read:32 | [class-64](https://ehabalshrida.github.io/reading-note/class-64)
 Read:33 | [class-65](https://ehabalshrida.github.io/reading-note/class-65)
 Read:34 | [class-66](https://ehabalshrida.github.io/reading-note/class-66)
+Read:35 | [class-67](https://ehabalshrida.github.io/reading-note/class-67)
+
 
 
 
